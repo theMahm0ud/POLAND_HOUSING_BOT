@@ -1,1 +1,1 @@
-bot: python botingbot.py
+bot: python LodzHousingBot.py
