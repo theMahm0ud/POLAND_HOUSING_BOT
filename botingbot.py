@@ -1,9 +1,9 @@
 import telegram.ext
 import csv
 
-Token = "5955209488:AAEl-60t7n4B1XF1PxdoAIOLuN9CUSck4Oo"
+Token = "X"
 
-updater = telegram.ext.Updater("5955209488:AAEl-60t7n4B1XF1PxdoAIOLuN9CUSck4Oo", use_context=True)
+updater = telegram.ext.Updater("X", use_context=True)
 dispatcher = updater.dispatcher
 
 

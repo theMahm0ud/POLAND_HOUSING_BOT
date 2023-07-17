@@ -1,6 +1,6 @@
 import googlemaps
 
-API_KEY = 'AIzaSyCBD4eIzezZ-ggnXw5jPWGsXdGVVJIqrAM'
+API_KEY = 'X'
 
 def get_lat_lng(address):
     """

@@ -6,8 +6,8 @@ import Googlemap
 import googlemaps
 from Googlemap import get_lat_lng, generate_map_popup
 
-API_KEY_Google = 'AIzaSyCBD4eIzezZ-ggnXw5jPWGsXdGVVJIqrAM'
-API_KEY = "6133530193:AAERkEbOUOFfRi1zbgBpKGTQJiLeMKrajVU"
+API_KEY_Google = 'X'
+API_KEY = "Y"
 bot = telebot.TeleBot(API_KEY)
 
 # Maximum number of rentals to display at once
